@@ -1,0 +1,19 @@
+.grid-container 
+{
+    display: grid;
+    grid-template-columns: 80px 80px 80px 80px 80px;
+    padding: 10px;
+}
+.grid-item {
+    background-color: black;
+    border: 1px solid white;
+    padding: 20px;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+}
+p 
+{
+    text-align: center;
+    font-size: 80px;
+}
